@@ -1,2 +1,3 @@
 # College-Code
-Stuff I've made as an undergrad at CSU.
+ - Stuff I've made as an undergrad at CSU.
+ - So far (Aug 2022) I haven't made any substantial projects...
